@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 10 14:27:16 2018
 
-@author: raghuvansh
-"""
 
 import numpy as np
 from math import log

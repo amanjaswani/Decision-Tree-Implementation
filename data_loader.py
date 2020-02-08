@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 27 22:52:00 2018
 
-@author: raghuvansh
-"""
 
 import csv
 
